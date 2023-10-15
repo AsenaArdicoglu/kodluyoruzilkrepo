@@ -1,0 +1,69 @@
+
+
+/* Tüm boşlukları sıfırla */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    color:green;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/5208008.jpg);
+    border-image-width: 200px;
+}
+nav{
+
+    text-align: center;
+    word-spacing: 5px;
+    margin-bottom: 20px;
+
+}
+
+img{
+    padding: 10px;
+    margin: 20px;
+    width: 400px;
+    float: left;
+}
+    
+p{
+    color:black;
+    background-color: gainsboro;
+    font-weight: bold;
+    width: 300px;
+    height: 70px;
+    margin-left: 650px;
+    line-height: 20px;
+
+}
+ul{
+    margin: 50px 50px;
+    text-shadow: 5px;
+    font-size: 16px;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    padding: 15px;
+
+}
+
+.iletisim{
+    margin: 30px;
+    margin-top: 20px;
+    font-size: large;
+    font-style: normal;
+    font-weight: 200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form {
+    margin: 30px;
+}
